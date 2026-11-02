@@ -1,2 +1,0 @@
-def soustract(a,b):
-	return a-b
